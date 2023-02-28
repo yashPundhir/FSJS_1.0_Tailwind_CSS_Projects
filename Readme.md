@@ -4,3 +4,7 @@
 
 ---
 
+## [Shopify HomePage UI Clone (Project 2)](https://github.com/yashPundhir/Shopify_HomePage_UI_Clone)
+
+---
+
